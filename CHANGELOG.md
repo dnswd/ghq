@@ -1,5 +1,15 @@
 # Changelog
 
+## [v1.6.1](https://github.com/dnswd/ghq/compare/v1.2.1...v1.6.1) - 2024-06-19
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/1
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/2
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/3
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/5
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/6
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/7
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/8
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/9
+
 ## [v1.6.1](https://github.com/x-motemen/ghq/compare/v1.6.0...v1.6.1) - 2024-04-10
 - Revert "feat: enable relative path ssh URL" by @Songmu in https://github.com/x-motemen/ghq/pull/385
 
