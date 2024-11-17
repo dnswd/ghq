@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.7.1](https://github.com/dnswd/ghq/compare/v1.2.1...v1.7.1) - 2024-11-17
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/1
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/2
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/3
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/5
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/6
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/7
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/8
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/9
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/10
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/11
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/12
+- [pull] master from x-motemen:master by @pull in https://github.com/dnswd/ghq/pull/13
+
 ## [v1.7.1](https://github.com/x-motemen/ghq/compare/v1.7.0...v1.7.1) - 2024-11-09
 - refine git vcs backend detection by @Songmu in https://github.com/x-motemen/ghq/pull/409
 
