@@ -1,5 +1,24 @@
 # Changelog
 
+## [v1.8.0](https://github.com/dnswd/ghq/compare/v1.2.1...v1.8.0) - 2025-12-21
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/1
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/2
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/3
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/5
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/6
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/7
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/8
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/9
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/10
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/11
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/12
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/13
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/14
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/15
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/16
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/17
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/18
+
 ## [v1.8.0](https://github.com/x-motemen/ghq/compare/v1.7.1...v1.8.0) - 2025-03-25
 - feat: support NO_COLOR environment variable by @hezhizhen in https://github.com/x-motemen/ghq/pull/411
 - Make the NO_COLOR environment variable accept strings other than the “true” strings by @Songmu in https://github.com/x-motemen/ghq/pull/417
