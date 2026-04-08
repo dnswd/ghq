@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.9.4](https://github.com/dnswd/ghq/compare/v1.9.3...v1.9.4) - 2026-04-08
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/25
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/27
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/28
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/29
+
 ## [v1.9.4](https://github.com/x-motemen/ghq/compare/v1.9.3...v1.9.4) - 2026-02-17
 - apply go fix modernizations by @yulog in https://github.com/x-motemen/ghq/pull/450
 - feat(migrate): make worktree and submodule aware by @atusy in https://github.com/x-motemen/ghq/pull/449
