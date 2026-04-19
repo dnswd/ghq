@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.10.2](https://github.com/dnswd/ghq/compare/v1.10.1...v1.10.2) - 2026-04-19
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/32
+- [pull] master from x-motemen:master by @pull[bot] in https://github.com/dnswd/ghq/pull/34
+
 ## [v1.10.1](https://github.com/x-motemen/ghq/compare/v1.10.0...v1.10.1) - 2026-04-11
 - feat(rm): make ghq rm worktree-aware by @chris-monardo in https://github.com/x-motemen/ghq/pull/481
 
